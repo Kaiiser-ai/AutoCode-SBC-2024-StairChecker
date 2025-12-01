@@ -1,6 +1,6 @@
 AutoCode SBC 2024 – Staircase Compliance Checker
 
-This project is part of the AI Applied to Architecture & Construction master’s program.
+This project is part of the AI Applied to Architecture & Construction.
 It demonstrates an AI-assisted code-compliance tool built using Google Colab and Python, following the Saudi Building Code SBC 2024 staircase requirements.
 Objective
 
